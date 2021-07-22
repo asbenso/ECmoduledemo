@@ -1,3 +1,3 @@
-ami_id = "ami-0dc2d3e4c0f9ebd18"
+ami_id        = "ami-0dc2d3e4c0f9ebd18"
 instance_type = "t2.micro"
-name = "jjtech-server"
+name          = "Devdemo-server"
